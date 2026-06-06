@@ -1,16 +1,12 @@
-## Hi there 👋
+# Mario - Développeur Web & IA
 
-<!--
-**mmorkos-cyber/mmorkos-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Domaine | Compétences | Technologies |
+|----------|------------|--------------|
+|**Frontend**| Création d'interfaces web responsives et intégration de données dynamiques | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) |
+|**Backend**| Développement de la logique métier, automatisation, traitement de données et génération de contenu dynamique | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) |
+|**API**| Conception et intégration d'API REST, gestion des requêtes HTTP et traitement de données JSON | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![REST](https://img.shields.io/badge/REST-005571?style=flat) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white) |
+|**Base de données**| Modélisation Merise, conception de bases de données relationnelles, requêtage SQL et administration | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat) |
+|**Collecte & traitement des données**| Scraping, collecte multi-sources, nettoyage, transformation et préparation des données pour l'analyse et l'IA | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) |
+|**Pipelines IA & LLM**| Développement de pipelines IA, entraînement et intégration de modèles, automatisation de processus et expérimentation en IA générative | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) |
+| **Cloud & déploiement (en cours)** | Conteneurisation, intégration continue, déploiement d'applications et découverte des services cloud | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) |
+| **Qualité & méthodes** | Tests, revue de code, bonnes pratiques de développement et organisation Agile | `SCRUM` `OOP` `DRY/KISS` `Design Patterns` `CI/CD` |
